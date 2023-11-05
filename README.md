@@ -1,6 +1,6 @@
 # 2023地址（备用）发布大全
 #### 本页收集整理全网可用的地址发布页，请添加本页到浏览器收藏夹，开.车不迷路!!!
-* [https://github.com/ldzxme/ldzxme.github.io](https://github.com/ldzxme/ldzxme.github.io)
+* [https://www.ikikiv.com](https://www.ikikiv.com)
 * [https://www.x6olink.com/.well-known/apple-app-site-association](https://www.x6olink.com/.well-known/apple-app-site-association)
 * [https://矿务局回.kdd1234.cc/go2.html](https://矿务局回.kdd1234.cc/go2.html)
 * [https://pbs.7dzlt.org/2048/notice.php](https://pbs.7dzlt.org/2048/notice.php)
